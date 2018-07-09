@@ -1,0 +1,34 @@
+db.restaurants.insert(
+   {
+      "name": “Five guys”,
+      "address" : {
+         "street" : “1133 15th St NW",
+         "zipcode" : 20001,
+      },
+      "yelp": "http://www.yelp.com/biz/five-guys-washington"
+   },
+{
+      "name": “Starbucks”,
+      "address" : {
+         "street" : “1077 15th St NW",
+         "zipcode" : 20001,
+      },
+      "yelp": "http://www.yelp.com/biz/starbucks-washington"
+   },
+{
+      "name": “Pete’s coffee”,
+      "address" : {
+         "street" : “950 15th St NW",
+         "zipcode" : 20001,
+      },
+      "yelp": "http://www.yelp.com/biz/peets-coffee-washington"
+   },
+{
+      "name": “Subway”,
+      "address" : {
+         "street" : “755 15th St NW",
+         "zipcode" : 20001,
+      },
+      "yelp": "http://www.yelp.com/biz/subway-washington"
+   }
+)

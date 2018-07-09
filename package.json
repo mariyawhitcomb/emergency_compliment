@@ -1,0 +1,20 @@
+{
+  "name": "emergency_compliment",
+  "version": "1.0.0",
+  "description": "Create your own version of [Emergency Compliment](http://emergencycompliment.com/) where the compliments are WDI-themed. When a user visits the site, they should be greeted with a WDI-themed compliment to cheer them up!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.generalassemb.ly:mariyawhitcomb/emergency_compliment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "hbs": "^4.0.1"
+  }
+}
